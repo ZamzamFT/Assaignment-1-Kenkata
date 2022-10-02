@@ -9,7 +9,7 @@
  - [Author](#author)
 
  ### Screenshot
- ![](images/screenshot.jpg)
+ ![](images/Screenshot.png)
 
 
  ### Built with
